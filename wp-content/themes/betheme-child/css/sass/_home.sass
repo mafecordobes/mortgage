@@ -1,0 +1,38 @@
+body:not(.template-slider) #Header
+  min-height: 0
+#Header
+  #Action_bar
+    background-color: $green
+    .contact_details
+      float: right
+      font-size: 14px
+      color: #fff
+      li > i:before
+        font-size: 19px
+        vertical-align: text-top
+      a
+        font-weight: 500
+        color: $white
+        text-decoration: none
+        &:hover
+          color: $dark_green
+      li.separator a
+        border-right: 2px solid
+        padding-top: 7px
+        padding-bottom: 7px
+
+    .social
+      float: left
+      i:before
+        color: $white
+      li
+        margin-right: 5px
+        &:hover
+          a
+            background: $dark_green
+        a
+          padding: 8px
+          border-radius: 50%
+#Top_bar
+  .logo
+    margin-left: 0

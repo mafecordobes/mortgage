@@ -1,12 +1,38 @@
-/*
-Theme Name: 	Betheme Child
-Theme URI: 		http://themes.muffingroup.com/betheme
-Author: 		Muffin group
-Author URI: 	http://muffingroup.com
-Description:	Child Theme for Betheme - Premium WordPress Theme
-Template:		betheme
-Version: 		1.6.1.1
-*/
+body:not(.template-slider) #Header {
+  min-height: 0; }
 
-/* Theme customization starts here
--------------------------------------------------------------- */
+#Header #Action_bar {
+  background-color: #007f33; }
+  #Header #Action_bar .contact_details {
+    float: right;
+    font-size: 14px;
+    color: #fff; }
+    #Header #Action_bar .contact_details li > i:before {
+      font-size: 19px;
+      vertical-align: text-top; }
+    #Header #Action_bar .contact_details a {
+      font-weight: 500;
+      color: #ffffff;
+      text-decoration: none; }
+      #Header #Action_bar .contact_details a:hover {
+        color: #005225; }
+    #Header #Action_bar .contact_details li.separator a {
+      border-right: 2px solid;
+      padding-top: 7px;
+      padding-bottom: 7px; }
+  #Header #Action_bar .social {
+    float: left; }
+    #Header #Action_bar .social i:before {
+      color: #ffffff; }
+    #Header #Action_bar .social li {
+      margin-right: 5px; }
+      #Header #Action_bar .social li:hover a {
+        background: #005225; }
+      #Header #Action_bar .social li a {
+        padding: 8px;
+        border-radius: 50%; }
+
+#Top_bar .logo {
+  margin-left: 0; }
+
+/*# sourceMappingURL=style.css.map */
