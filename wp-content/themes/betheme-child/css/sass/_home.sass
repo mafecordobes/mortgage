@@ -1,3 +1,4 @@
+/*Action Bar*/
 body:not(.template-slider) #Header
   min-height: 0
 #Header
@@ -33,6 +34,30 @@ body:not(.template-slider) #Header
         a
           padding: 8px
           border-radius: 50%
-#Top_bar
-  .logo
-    margin-left: 0
+/*Header*/
+
+#Header
+  #Top_bar
+    background: $light_green
+    #logo
+      height: 76px
+      line-height: 76px
+      padding: 9px 0 5px 0
+    .top_bar_right
+      display: none
+    .menu > li > a
+      padding: 16px 0 10px
+      span:not(.description)
+        border: none
+        padding-right: 0
+        padding-left: 16px
+        color: $gray
+    .menu > li:hover > a span:not(.description)
+      font-weight: bold
+
+    .logo
+      margin-left: 0
+      margin-right: 20px
+
+    #menu ul li
+      background: $light_green
