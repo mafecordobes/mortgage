@@ -1,6 +1,25 @@
 @import sass/_colors
 @import sass/_home
 
+@media only screen and (min-width: 1680px)
+#Footer .widgets_wrapper #media_image-2
+  width: 75%
+  margin-top: 10px
+
+@media only screen and (max-width: 992px)
+  #Footer
+    .column.one-second
+      width: 98%
+    .column.one-fourth
+      width: 46%
+    .widgets_wrapper #media_image-2
+      width: 60% !important
+      margin-top: 10px !important
+      margin: 0 auto
+
+
+
+
 //Tablet
 @media only screen and (max-width: 1240px)
   @import sass/_home_1240
