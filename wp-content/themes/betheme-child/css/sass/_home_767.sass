@@ -1,4 +1,5 @@
 #Header
+  min-height: 0 !important
   #Action_bar
     background-color: #007f33 !important
 
@@ -21,3 +22,21 @@
       li a
         padding: 2px
 
+  #Top_bar
+    #menu
+      ul
+        li
+          background: transparent
+          border-top: 1px solid #cee39f
+        &:last-child
+          border-bottom: 1px solid #cee39f
+    a.responsive-menu-toggle i
+      color: $green
+    .menu > li > a
+      padding: 0
+
+/*Content*/
+#Wrapper
+  h2
+    font-size: 25px
+    line-height: 25px

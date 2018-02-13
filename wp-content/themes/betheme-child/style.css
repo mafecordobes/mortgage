@@ -57,25 +57,69 @@ body:not(.template-slider) #Header {
   #Header #Top_bar #menu ul li {
     background: #cee39f; }
 
+/*Content */
+#Wrapper h2 {
+  font-weight: 900;
+  color: #3b5225;
+  font-size: 50px;
+  line-height: 50px; }
+#Wrapper .text-home {
+  margin: 0;
+  padding-top: 24px;
+  padding-bottom: 10px; }
+
+@media only screen and (max-width: 1240px) {
+  #Wrapper h2 {
+    font-size: 35px;
+    line-height: 35px; } }
 @media only screen and (max-width: 767px) {
-  #Header #Action_bar {
-    background-color: #007f33 !important; }
-    #Header #Action_bar .contact_details {
-      width: 100%;
-      text-align: center;
-      font-size: 11px; }
-      #Header #Action_bar .contact_details li > i:before {
-        font-size: 14px; }
-      #Header #Action_bar .contact_details li.separator a {
-        border-right: 1px solid;
-        padding-top: 3px;
-        padding-bottom: 3px; }
-    #Header #Action_bar .social {
-      width: 100%;
-      padding-top: 8px !important; }
-      #Header #Action_bar .social i:before {
-        font-size: 13px; }
-      #Header #Action_bar .social li a {
-        padding: 2px; } }
+  #Header {
+    min-height: 0 !important; }
+    #Header #Action_bar {
+      background-color: #007f33 !important; }
+      #Header #Action_bar .contact_details {
+        width: 100%;
+        text-align: center;
+        font-size: 11px; }
+        #Header #Action_bar .contact_details li > i:before {
+          font-size: 14px; }
+        #Header #Action_bar .contact_details li.separator a {
+          border-right: 1px solid;
+          padding-top: 3px;
+          padding-bottom: 3px; }
+      #Header #Action_bar .social {
+        width: 100%;
+        padding-top: 8px !important; }
+        #Header #Action_bar .social i:before {
+          font-size: 13px; }
+        #Header #Action_bar .social li a {
+          padding: 2px; }
+    #Header #Top_bar #menu ul li {
+      background: transparent;
+      border-top: 1px solid #cee39f; }
+    #Header #Top_bar #menu ul:last-child {
+      border-bottom: 1px solid #cee39f; }
+    #Header #Top_bar a.responsive-menu-toggle i {
+      color: #007f33; }
+    #Header #Top_bar .menu > li > a {
+      padding: 0; }
+
+  /*Content */
+  #Wrapper h2 {
+    font-size: 25px;
+    line-height: 25px; } }
+@media only screen and (max-width: 414px) {
+  #Header #Top_bar #logo {
+    height: 65px;
+    line-height: 65px; }
+
+  /*Content */
+  #Wrapper h2 {
+    font-size: 15px;
+    line-height: 15px;
+    margin-bottom: 10px; }
+  #Wrapper .text-home {
+    padding-top: 14px;
+    padding-bottom: 0px; } }
 
 /*# sourceMappingURL=style.css.map */
