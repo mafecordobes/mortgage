@@ -137,6 +137,13 @@ body:not(.template-slider) #Header {
     width: 60% !important;
     margin-top: 10px !important;
     margin: 0 auto; } }
+@media only screen and (max-width: 600px) {
+  #Footer .column.one-second {
+    width: 98%; }
+  #Footer .column.one-fourth {
+    width: 98%; }
+  #Footer .widgets_wrapper #media_image-2 {
+    width: 40% !important; } }
 @media only screen and (max-width: 1240px) {
   #Wrapper h2 {
     font-size: 35px;
