@@ -56,6 +56,8 @@ body:not(.template-slider) #Header {
     margin-right: 20px; }
   #Header #Top_bar #menu ul li {
     background: #cee39f; }
+    #Header #Top_bar #menu ul li.current-menu-item a {
+      font-weight: bold; }
 
 /*Content */
 #Wrapper h2 {

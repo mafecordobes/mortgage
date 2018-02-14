@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bf8d461-f3d1-4e07-9060-eac8d5b9e9cf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/general.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/betheme/general.js" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/.sass-cache/5d9b7ce555a7a1e9fc3d23d439284fd486dc8a6c/style.sassc" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/.sass-cache/5d9b7ce555a7a1e9fc3d23d439284fd486dc8a6c/style.sassc" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/.sass-cache/ad0a9d76b880e18195ee58ba4e7d8d7ba24f57da/_home.sassc" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/.sass-cache/ad0a9d76b880e18195ee58ba4e7d8d7ba24f57da/_home.sassc" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/.sass-cache/ad0a9d76b880e18195ee58ba4e7d8d7ba24f57da/_home_414.sassc" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/.sass-cache/ad0a9d76b880e18195ee58ba4e7d8d7ba24f57da/_home_414.sassc" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/.sass-cache/ad0a9d76b880e18195ee58ba4e7d8d7ba24f57da/_home_767.sassc" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/.sass-cache/ad0a9d76b880e18195ee58ba4e7d8d7ba24f57da/_home_767.sassc" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home.sass" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home.sass" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home_414.sass" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home_414.sass" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home_767.sass" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home_767.sass" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/style.sass" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/style.sass" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/footer.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/functions.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/style.css" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/style.css.map" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/style.css.map" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_home.sass" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_home.sass" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="196" column="2" lean-forward="false" selection-start-line="196" selection-start-column="2" selection-end-line="196" selection-end-column="2" />
+            <state relative-caret-position="192">
+              <caret line="64" column="27" lean-forward="true" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -97,7 +83,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/footer.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="93">
@@ -113,11 +99,11 @@
     <findStrings>
       <find>menu_wrapper</find>
       <find>none</find>
-      <find>menu</find>
       <find>searc</find>
       <find>responsive-menu-toggle</find>
       <find>.js</find>
       <find>.social</find>
+      <find>menu</find>
     </findStrings>
     <dirStrings>
       <dir>C:\xampp\htdocs\mortgage\wp-content\themes</dir>
@@ -141,8 +127,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/general.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/betheme/general.js" />
-        <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home.sass" />
         <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home.sass" />
       </list>
     </option>
   </component>
@@ -269,12 +255,12 @@
       <updated>1518451482919</updated>
       <workItem from="1518451484618" duration="2099000" />
       <workItem from="1518461376201" duration="24004000" />
-      <workItem from="1518560316226" duration="8823000" />
+      <workItem from="1518560316226" duration="10037000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34926000" />
+    <option name="totallyTimeSpent" value="36140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -651,18 +637,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="196" column="2" lean-forward="false" selection-start-line="196" selection-start-column="2" selection-end-line="196" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
           <caret line="206" column="72" lean-forward="false" selection-start-line="206" selection-start-column="72" selection-end-line="206" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="64" column="27" lean-forward="true" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
           <folding />
         </state>
       </provider>
