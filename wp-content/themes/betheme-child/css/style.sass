@@ -2,9 +2,21 @@
 @import sass/_home
 
 @media only screen and (min-width: 1680px)
-#Footer .widgets_wrapper #media_image-2
-  width: 75%
-  margin-top: 10px
+  #Footer .widgets_wrapper #media_image-2
+    width: 75%
+    margin-top: 10px
+
+@media only screen and (max-width: 1164px)
+  #Footer
+    .footer_copy .column.one
+      padding-top: 0
+    .widgets_wrapper
+      min-height: 330px
+
+@media only screen and (max-width: 1164px)
+  #Footer
+    .widgets_wrapper
+      min-height: 350px
 
 @media only screen and (max-width: 992px)
   #Footer
@@ -16,6 +28,9 @@
       width: 60% !important
       margin-top: 10px !important
       margin: 0 auto
+    .widgets_wrapper
+      min-height: 600px
+
 
 @media only screen and (max-width: 600px)
   #Footer
@@ -25,6 +40,9 @@
       width: 98%
     .widgets_wrapper #media_image-2
       width: 40% !important
+    .widgets_wrapper
+      min-height: 780px
+
 
 //Tablet
 @media only screen and (max-width: 1240px)
@@ -36,3 +54,4 @@
 
 @media only screen and (max-width: 414px)
   @import sass/_home_414
+

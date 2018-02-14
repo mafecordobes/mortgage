@@ -35,6 +35,8 @@ function mfnch_enqueue_styles() {
 	wp_dequeue_style( 'style' );
 	wp_enqueue_style( 'style', get_stylesheet_directory_uri() .'/style.css' );
 
+    wp_enqueue_script('jquery', get_template_directory_uri() . '/general.js','','',true);
+
 }
 
 

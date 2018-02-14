@@ -108,7 +108,7 @@ body:not(.template-slider) #Header
 /*Footer*/
 
 .text-footer
-  background: green
+  background: $green
   font-family: lato
   line-height: 40px
   font-size: 34px
@@ -139,3 +139,60 @@ body:not(.template-slider) #Header
   .widgets_wrapper #media_image-2
     width: 95% !important
     margin-top: 10px !important
+
+  .footer_copy
+    background: $green
+    color: $white
+    .column.one
+      padding-top: 12px !important
+      min-height: 20px
+
+  .social
+    float: left
+    i:before
+      color: $white
+    li
+      margin-right: 5px
+      &:hover
+        a
+          background: $dark_green
+      a
+        padding: 8px
+        border-radius: 50%
+        font-size: 13px !important
+        line-height: 13px !important
+  a#back_to_top.button.button_js
+    color: $white
+
+
+  .widgets_wrapper
+    min-height: 315px
+
+/*Made by Todd*/
+
+.madeby
+  text-align: center
+  padding-top: 6px
+  padding-bottom: 5px
+  font-weight: bold
+  color: $light_gray
+  background-color: #D8D8D8
+  span
+    color: #875293
+  img
+    width: 40px
+
+/*Circles section*/
+
+.container-circles
+  text-align: center
+  margin-left: 2% !important
+  margin-right: 2% !important
+  margin-bottom: 2%
+  img
+    width: 85%
+  .one-fourth.column
+    margin: 0
+    width: 24%
+  h3
+    cursor: context-menu

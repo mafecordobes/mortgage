@@ -105,6 +105,7 @@ if( $back_to_top_class == 'hide' ){
 		<?php if( mfn_opts_get('footer-hide') != 1 ): ?>
 
 			<div class="footer_copy">
+                <div class="footer_copyright">
 				<div class="container">
 					<div class="column one">
 
@@ -136,6 +137,7 @@ if( $back_to_top_class == 'hide' ){
 					</div>
 				</div>
 			</div>
+            </div>
 
 		<?php endif; ?>
 
@@ -144,6 +146,11 @@ if( $back_to_top_class == 'hide' ){
 				echo '<a id="back_to_top" class="button button_js in_footer" href=""><i class="icon-up-open-big"></i></a>';
 			}
 		?>
+
+        <div class="madeby">
+            <p>Made with <i class="icon-heart-fa"></i> by <span>Todd Publicidad</span></p>
+            <img src="<?php echo get_template_directory_uri(); ?>/logo/logo_todd_mamut.png">
+        </div>
 
 	</footer>
 <?php endif; ?>
@@ -177,6 +184,37 @@ if( $back_to_top_class == 'hide' ){
 
 <!-- wp_footer() -->
 <?php wp_footer(); ?>
+<?php if(is_page( 'homepage' )): ?>
+    <script>
+        jQuery("#calculadora").mouseover(function(){
+            jQuery(this).attr('src','/wp-content/uploads/2018/02/calculadora-claro.png');
+        });
+        jQuery("#calculadora").mouseleave(function(){
+            jQuery(this).attr('src','/wp-content/uploads/2018/02/Calculadora-verde-oscuro.png');
+        });
+
+        jQuery("#manos").mouseover(function(){
+            jQuery(this).attr('src','/wp-content/uploads/2018/02/manos-claro.png');
+        });
+        jQuery("#manos").mouseleave(function(){
+            jQuery(this).attr('src','/wp-content/uploads/2018/02/Manos-verde-oscuro.png');
+        });
+
+        jQuery("#libreta").mouseover(function(){
+            jQuery(this).attr('src','/wp-content/uploads/2018/02/libreta-claro.png');
+        });
+        jQuery("#libreta").mouseleave(function(){
+            jQuery(this).attr('src','/wp-content/uploads/2018/02/Libreta-verde-oscuro.png');
+        });
+
+        jQuery("#casa").mouseover(function(){
+            jQuery(this).attr('src','/wp-content/uploads/2018/02/casa-claro.png');
+        });
+        jQuery("#casa").mouseleave(function(){
+            jQuery(this).attr('src','/wp-content/uploads/2018/02/Casa-verde-oscuro-1.png');
+        });
+    </script>
+<?php endif; ?>
 
 </body>
 </html>
