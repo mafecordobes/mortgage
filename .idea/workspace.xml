@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bf8d461-f3d1-4e07-9060-eac8d5b9e9cf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_contact_us.sass" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_contact_us_1024.sass" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_contact_us_1680.sass" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/.sass-cache/5d9b7ce555a7a1e9fc3d23d439284fd486dc8a6c/style.sassc" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/.sass-cache/5d9b7ce555a7a1e9fc3d23d439284fd486dc8a6c/style.sassc" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/style.sass" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/style.sass" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/.sass-cache/ad0a9d76b880e18195ee58ba4e7d8d7ba24f57da/_contact_us.sassc" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/.sass-cache/ad0a9d76b880e18195ee58ba4e7d8d7ba24f57da/_contact_us.sassc" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/.sass-cache/ad0a9d76b880e18195ee58ba4e7d8d7ba24f57da/_home_767.sassc" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/.sass-cache/ad0a9d76b880e18195ee58ba4e7d8d7ba24f57da/_home_767.sassc" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_contact_us.sass" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_contact_us.sass" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home_767.sass" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home_767.sass" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/style.css" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/betheme-child/style.css.map" afterPath="$PROJECT_DIR$/wp-content/themes/betheme-child/style.css.map" />
     </list>
@@ -20,11 +18,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.sass" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_colors.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_colors.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/style.sass">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="93">
-              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+              <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -34,7 +42,17 @@
         <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_contact_us_1024.sass">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
-              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_home_767.sass" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home_767.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="80" column="16" lean-forward="false" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -43,8 +61,8 @@
       <file leaf-file-name="_contact_us.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_contact_us.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+            <state relative-caret-position="282">
+              <caret line="26" column="2" lean-forward="false" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -53,7 +71,7 @@
       <file leaf-file-name="_home.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1728">
+            <state relative-caret-position="1485">
               <caret line="64" column="27" lean-forward="false" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
               <folding />
             </state>
@@ -64,27 +82,7 @@
         <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_contact_us_1680.sass">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_home_767.sass" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home_767.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1809">
-              <caret line="67" column="2" lean-forward="false" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="972">
-              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -149,16 +147,16 @@
         <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/includes/header-top-area.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home_1240.sass" />
         <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home_414.sass" />
-        <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home_767.sass" />
         <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/general.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/betheme/general.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home.sass" />
-        <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_contact_us.sass" />
         <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_contact_us_1680.sass" />
         <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_contact_us_1024.sass" />
         <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/css/style.sass" />
+        <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_contact_us.sass" />
+        <option value="$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home_767.sass" />
       </list>
     </option>
   </component>
@@ -297,12 +295,12 @@
       <workItem from="1518461376201" duration="24004000" />
       <workItem from="1518560316226" duration="10037000" />
       <workItem from="1518708475571" duration="10000" />
-      <workItem from="1518722315646" duration="1756000" />
+      <workItem from="1518722315646" duration="3709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37906000" />
+    <option name="totallyTimeSpent" value="39859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -601,22 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_colors.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home_767.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1809">
-          <caret line="67" column="2" lean-forward="false" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/theme.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -670,26 +652,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_contact_us.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_contact_us_1680.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="64" column="27" lean-forward="false" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -697,7 +663,7 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_contact_us_1024.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
-          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -705,7 +671,39 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/style.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
-          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_colors.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="64" column="27" lean-forward="false" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_contact_us.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="26" column="2" lean-forward="false" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/betheme-child/css/sass/_home_767.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="80" column="16" lean-forward="false" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
           <folding />
         </state>
       </provider>

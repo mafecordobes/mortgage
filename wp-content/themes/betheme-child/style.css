@@ -179,6 +179,28 @@ body:not(.template-slider) #Header {
 div#wd-map1 {
   margin-bottom: 0; }
 
+div.wpcf7 ::-webkit-input-placeholder {
+  color: #3b5225; }
+div.wpcf7 input, div.wpcf7 textarea {
+  font-size: 18px;
+  color: #363636 !important; }
+
+.wpcf7-form .one.column {
+  margin-left: 1% !important; }
+
+div.wpcf7 {
+  padding: 5% 0 !important; }
+
+span.wpcf7-form-control-wrap:focus, input.wpcf7-form-control.wpcf7-submit:focus {
+  outline: none !important; }
+
+input.wpcf7-form-control.wpcf7-submit {
+  background-color: #cee39f;
+  font-weight: bold;
+  font-size: 22px;
+  color: #3b5225 !important;
+  padding: 7px 1%; }
+
 @media only screen and (max-width: 1680px) {
   div#wd-map1 {
     height: 450px !important; } }
@@ -282,7 +304,18 @@ div#wd-map1 {
     width: 48% !important;
     clear: none !important; }
   .container-circles img {
-    width: 65%; } }
+    width: 65%; }
+
+  /*Contact us */
+  .wpcf7-form .one.column {
+    margin-left: 0 !important; }
+
+  div.wpcf7 input, div.wpcf7 textarea {
+    font-size: 15px; }
+
+  input.wpcf7-form-control.wpcf7-submit {
+    font-size: 17px;
+    padding: 7px 2%; } }
 @media only screen and (max-width: 414px) {
   #Header #Top_bar #logo {
     height: 65px;
