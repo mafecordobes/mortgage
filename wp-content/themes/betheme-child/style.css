@@ -176,6 +176,12 @@ body:not(.template-slider) #Header {
   .container-circles h3 {
     cursor: context-menu; }
 
+div#wd-map1 {
+  margin-bottom: 0; }
+
+@media only screen and (max-width: 1680px) {
+  div#wd-map1 {
+    height: 450px !important; } }
 @media only screen and (min-width: 1680px) {
   #Footer .widgets_wrapper #media_image-2 {
     width: 75%;
@@ -188,6 +194,9 @@ body:not(.template-slider) #Header {
 @media only screen and (max-width: 1164px) {
   #Footer .widgets_wrapper {
     min-height: 350px; } }
+@media only screen and (max-width: 1024px) {
+  div#wd-map1 {
+    height: 300px !important; } }
 @media only screen and (max-width: 992px) {
   #Footer .column.one-second {
     width: 98%; }

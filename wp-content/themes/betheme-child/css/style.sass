@@ -1,5 +1,9 @@
 @import sass/_colors
 @import sass/_home
+@import sass/_contact_us
+
+@media only screen and (max-width: 1680px)
+  @import sass/_contact_us_1680
 
 @media only screen and (min-width: 1680px)
   #Footer .widgets_wrapper #media_image-2
@@ -17,6 +21,9 @@
   #Footer
     .widgets_wrapper
       min-height: 350px
+
+@media only screen and (max-width: 1024px)
+  @import sass/_contact_us_1024
 
 @media only screen and (max-width: 992px)
   #Footer
