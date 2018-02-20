@@ -213,6 +213,12 @@ if( $back_to_top_class == 'hide' ){
         jQuery("#casa").mouseleave(function(){
             jQuery(this).attr('src','/wp-content/uploads/2018/02/Casa-verde-oscuro-1.png');
         });
+
+        jQuery.load(function() {
+            jQuery(".wp-gr .wp-google-place .wp-google-left img").attr('src', '/wp-content/uploads/2018/02/Logo-de-HG-en-PSD-tran.png');
+        });
+
+
     </script>
 <?php endif; ?>
 
